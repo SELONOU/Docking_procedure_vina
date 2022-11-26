@@ -1,0 +1,6 @@
+ZINC000000000007.pdbqt
+ZINC000000000015.pdbqt
+ZINC000000000022.pdbqt
+ligand.pdbqt
+~            
+~            
